@@ -4,5 +4,7 @@ This is a Cypress Cucumber Test Project for a simple E-commerce web application 
 Command to execute
 ============================
 1.cd Cypress-Cucumber-project
+
 2.npm install cypress cypress-cucumber-preprocessor
+
 3.npx cypress run
